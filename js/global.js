@@ -3,7 +3,7 @@ Theme by: WebThemez.com
 Note: Please use our back link in your site
 */
 $( function() {
-        var endDate = "July  01, 2023 09:00:00";
+        var endDate = "July 1, 2023 00:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
